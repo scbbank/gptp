@@ -1,0 +1,8 @@
+# Provides details about the Project
+Project Name            :  CCS
+Project Manager         :  Satish
+Project Start Date      :  12-05-2023
+Project Client          :  14Reels
+Project Size            :  22
+Product Owner           :  Madan
+Project Methodology     :  Agile
