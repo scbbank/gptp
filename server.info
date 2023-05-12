@@ -1,0 +1,4 @@
+#Servers Information can accessed by only authorized persons.
+S.No    Server-IP                  usn/pwd
+1       CCS-   10.20.30.40         admin/admin
+2       SCPay- 11.22.33.44         admin/admin
