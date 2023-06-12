@@ -1,4 +1,4 @@
-package junit;
+package com.scb.net;
  
 import static org.junit.Assert.assertTrue;
  
