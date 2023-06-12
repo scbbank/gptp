@@ -1,4 +1,4 @@
-package hello;
+package main/java/com/scb/net;
 
 import org.joda.time.LocalTime;
 
