@@ -1,0 +1,10 @@
+#this file contasins All the resources information
+
+Resource_Id   Resource_Name                                     email                                                                 Location
+-----------   ----------------------------------------------    -------------------------------------------------------------------   ----------
+1			  S, Tharun Kumar                                   Tharunkumar.S@scbbank.com                                             IN-CHN
+2             K, Bindu                                          Bindu.K@scbbank.com                                                   IN-BLR
+3             OP, Bharath                                       Bharath.OP@scbbank.com                                                IN-BLR
+4             R, Subbu                                          Subbu.R@scbbank.com                                                   IN-CHN
+5             M, Thiru                                          Thiru.M@scbbank.com                                                   IN-CHN
+6             U, Yashika                                        Yashika.U@scbbank.com                                                 SG-CBP
