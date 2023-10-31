@@ -22,6 +22,18 @@
            </dependency>
        </dependencies>
        <!-- end::joda[] -->
+	<distributionManagement>
+		 <repository>
+			<id>nexus</id>
+                	<name>SCB Technologies Releases Nexus Repository</name>
+ 			<url>http://3.110.47.76:8081/repository/gptp-release/</url>
+ 			</repository>
+ 		<snapshotRepository>
+ 			<id>nexus</id>
+ 			<name>Mithun Technologies Snapshot Nexus Repository </name>
+ 			<url>http://localhost:8081/repository/gptp-snapshot/</url>
+ 		</snapshotRepository>
+ 	</distributionManagement>
        
     <build>
         <plugins>
